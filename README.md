@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#0089ff&animation=fadeIn&height=300&section=header&text=FARIXZ&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#0089ff&animation=fadeIn&height=800&section=header&text=FARIXZ&fontSize=70)
 
 ### Hi there 👋
 ### Welcome to my profile! ❤️
