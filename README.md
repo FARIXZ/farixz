@@ -12,6 +12,9 @@
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=farixz&theme=github-dark-blue&card_width=350)](https://git.io/streak-stats)
 -->
+
+![](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=undertale&logoColor=white&link=https://farixz.glitch.me)
+
 # 💰〡 Support me 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thefarixz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/farixz) 
 
