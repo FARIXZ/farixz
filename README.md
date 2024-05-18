@@ -5,3 +5,8 @@
 
 # Stats
 ![FARIXZ's stats](https://github-readme-stats.vercel.app/api?username=farixz&theme=github_dark&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=farixz&theme=github-dark-blue&card_width=350)](https://git.io/streak-stats)
+
+# Connect with me :)
+<p align="left">
+<a href="https://instagram.com/farixz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farixz" height="30" width="40" /></a>
+</p>
