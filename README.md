@@ -5,7 +5,9 @@
 
 # Stats
 ![FARIXZ's stats](https://github-readme-stats.vercel.app/api?username=farixz&custom_title=FARIXZ%20Stats&theme=github_dark&show_icons=true&hide=prs,contribs)
+<!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=farixz&theme=github-dark-blue&card_width=350)](https://git.io/streak-stats)
+-->
 
 # Connect with me :)
 <p align="left">
