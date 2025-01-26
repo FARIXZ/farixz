@@ -1,4 +1,6 @@
-
+## 💖〡About me
+- 🔭 I’m currently studying Computer Science at Modern Academy CS.
+- 
 <!--![](https://komarev.com/ghpvc/?username=farixz&style=flat-square&label=Profile+Views:)-->
 [![](https://visitcount.itsvg.in/api?id=farixz&icon=7&color=0)](https://visitcount.itsvg.in)
 
@@ -16,5 +18,3 @@
 
 ### 💰〡Support me 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thefarixz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/farixz) 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true)
