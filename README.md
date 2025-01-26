@@ -1,8 +1,5 @@
 ## 💖〡About me
 - 🔭 I’m currently studying Computer Science at Modern Academy CS.
-- 
-<!--![](https://komarev.com/ghpvc/?username=farixz&style=flat-square&label=Profile+Views:)-->
-[![](https://visitcount.itsvg.in/api?id=farixz&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ## ⛏️〡My Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
@@ -13,6 +10,8 @@
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=farixz&theme=github-dark-blue&card_width=350)](https://git.io/streak-stats)
 -->
+<!--![](https://komarev.com/ghpvc/?username=farixz&style=flat-square&label=Profile+Views:)-->
+[![](https://visitcount.itsvg.in/api?id=farixz&icon=7&color=0)](https://visitcount.itsvg.in)
 
 [![](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=undertale&logoColor=white&link=https://farixz.rf.gd)](https://farixz.rf.gd)
 
