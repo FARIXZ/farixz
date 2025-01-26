@@ -14,7 +14,7 @@
 <!--![](https://komarev.com/ghpvc/?username=farixz&style=flat-square&label=Profile+Views:)-->
 [![](https://visitcount.itsvg.in/api?id=farixz&icon=7&color=0)](https://visitcount.itsvg.in)
 
-[![](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=undertale&logoColor=white&link=https://farixz.rf.gd)](https://farixz.rf.gd)
+<!---[![](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=undertale&logoColor=white&link=https://farixz.rf.gd)](https://farixz.rf.gd)-->
 
 ### 💰〡Support me 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thefarixz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/farixz) 
